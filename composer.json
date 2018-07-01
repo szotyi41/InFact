@@ -1,0 +1,18 @@
+{
+    "name": "sfss/infact",
+    "type": "gameproject",
+    "autoload": {
+        "psr-4": {
+            "InFact\\": "classes"
+        }
+    },
+    "require": {
+        "cboden/ratchet": "^0.4.1"
+    },
+    "authors": [
+        {
+            "name": "Buza Péter",
+            "email": "szotyi41@yahoo.com"
+        }
+    ]
+}
